@@ -7,3 +7,4 @@ a sublime configuration from sublime-3.xx on windows x64
 3.Run git clone at the folder in 2:
     ```git clone https://github.com/fengqiaozhu/sublimeBackup.git```
 4. Follow tools->Packages->package syncing->pull settings to config the sublime from backup;
+

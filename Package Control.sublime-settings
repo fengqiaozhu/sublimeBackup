@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"bracket_highlighter.busy": false,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Autoprefixer",
+		"Babel",
+		"BracketHighlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"EJS",
+		"Emmet",
+		"Git",
+		"Gulp",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"jQuery",
+		"Material Theme",
+		"Package Control",
+		"Package Syncing",
+		"React IDE",
+		"Sass",
+		"SASS Build",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Sodarized",
+		"Vue Syntax Highlight",
+		"WakaTime"
+	],
+	"repositories":
+	[
+		"https://github.com/subhaze/CSS-Extended.git"
+	]
+}
